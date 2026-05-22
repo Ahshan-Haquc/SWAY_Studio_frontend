@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "akash-dev",
+    "development",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "akash-dev": "main",
+    "development": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "akash-dev",
+    "development",
+    "origin"
+  ]
+}
